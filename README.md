@@ -6,7 +6,7 @@ denen der Katalog seine Einträge baut.
 
 | App | Beschreibung | Projekt |
 |---|---|---|
-| **Brickfolio** | Selbstgehostete PWA für LEGO-Sammlungen: scannen, verwalten, bewerten | [Melle79/brickfolio](https://github.com/Melle79/brickfolio) |
+| **Nupplo SE** (früher Brickfolio) | Selbstgehostete PWA für LEGO-Sammlungen: scannen, verwalten, bewerten | [Melle79/brickfolio](https://github.com/Melle79/brickfolio) |
 
 ## Aufbau
 
